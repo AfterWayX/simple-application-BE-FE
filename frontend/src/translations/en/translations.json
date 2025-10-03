@@ -1,0 +1,55 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About"
+  },
+  "home": {
+    "title": "Welcome to our Home Page",
+    "description": "This is the home page content. Here you can find information about our services and features.",
+    "welcomeMessage": "Welcome to our website! We're glad you're here."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Learn more about our company, mission, and values. We are committed to providing excellent service.",
+    "mission": "Our mission is to deliver high-quality solutions that meet our clients' needs.",
+    "values": "We value integrity, innovation, and customer satisfaction."
+  },
+  "language": {
+    "switchTo": "Switch to",
+    "english": "ENG",
+    "romanian": "RO"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "confirmPassword": "Confirm Password",
+    "loginButton": "Sign In",
+    "registerButton": "Sign Up",
+    "loginTitle": "Sign In to Your Account",
+    "registerTitle": "Create Your Account",
+    "loginSubtitle": "Welcome back! Please sign in to continue.",
+    "registerSubtitle": "Join us today! Create your account to get started.",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "signInLink": "Sign in here",
+    "signUpLink": "Sign up here",
+    "loginSuccess": "Login successful!",
+    "registerSuccess": "Registration successful!",
+    "loginError": "Invalid email or password",
+    "registerError": "Registration failed. Please try again.",
+    "validation": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be at least 8 characters",
+      "nameRequired": "Name is required",
+      "nameMinLength": "Name must be at least 2 characters",
+      "confirmPasswordRequired": "Please confirm your password",
+      "passwordsMatch": "Passwords do not match"
+    }
+  }
+}

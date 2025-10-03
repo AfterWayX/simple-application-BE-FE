@@ -1,0 +1,55 @@
+{
+  "header": {
+    "home": "Acasă",
+    "about": "Despre"
+  },
+  "home": {
+    "title": "Bun venit pe pagina noastră de acasă",
+    "description": "Aceasta este conținutul paginii de acasă. Aici puteți găsi informații despre serviciile și funcționalitățile noastre.",
+    "welcomeMessage": "Bun venit pe site-ul nostru! Ne bucurăm că sunteți aici."
+  },
+  "about": {
+    "title": "Despre noi",
+    "description": "Aflați mai multe despre compania noastră, misiunea și valorile noastre. Suntem dedicați să oferim un serviciu excelent.",
+    "mission": "Misiunea noastră este să livrăm soluții de înaltă calitate care să îndeplinească nevoile clienților noștri.",
+    "values": "Valorăm integritatea, inovația și satisfacția clienților."
+  },
+  "language": {
+    "switchTo": "Schimbă la",
+    "english": "ENG",
+    "romanian": "RO"
+  },
+  "auth": {
+    "login": "Autentificare",
+    "register": "Înregistrare",
+    "logout": "Deconectare",
+    "email": "Email",
+    "password": "Parolă",
+    "name": "Nume",
+    "confirmPassword": "Confirmă Parola",
+    "loginButton": "Autentificare",
+    "registerButton": "Înregistrare",
+    "loginTitle": "Autentificare în Cont",
+    "registerTitle": "Creează Contul Tău",
+    "loginSubtitle": "Bun venit înapoi! Te rugăm să te autentifici pentru a continua.",
+    "registerSubtitle": "Alătură-te nouă astăzi! Creează-ți contul pentru a începe.",
+    "alreadyHaveAccount": "Ai deja un cont?",
+    "dontHaveAccount": "Nu ai un cont?",
+    "signInLink": "Autentifică-te aici",
+    "signUpLink": "Înregistrează-te aici",
+    "loginSuccess": "Autentificare reușită!",
+    "registerSuccess": "Înregistrare reușită!",
+    "loginError": "Email sau parolă invalidă",
+    "registerError": "Înregistrarea a eșuat. Te rugăm să încerci din nou.",
+    "validation": {
+      "emailRequired": "Email-ul este obligatoriu",
+      "emailInvalid": "Te rugăm să introduci o adresă de email validă",
+      "passwordRequired": "Parola este obligatorie",
+      "passwordMinLength": "Parola trebuie să aibă cel puțin 8 caractere",
+      "nameRequired": "Numele este obligatoriu",
+      "nameMinLength": "Numele trebuie să aibă cel puțin 2 caractere",
+      "confirmPasswordRequired": "Te rugăm să confirmi parola",
+      "passwordsMatch": "Parolele nu se potrivesc"
+    }
+  }
+}
